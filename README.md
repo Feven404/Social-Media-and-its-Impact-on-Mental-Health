@@ -4,6 +4,10 @@
 # Introduction
 This project explores the impact of social media use on mental health, focusing on time spent, preferred platforms, and content type. With rising mental health concerns and increased social media usage, especially among young adults, our research aims to uncover insights to inform better usage practices and interventions for improved mental well-being.
 
+<div align = "center">
+<img src = "images/intro image.jpg" width = "450")>
+</div>
+
 # Data cleaning
 1. After importing the Excel and CSV files, we renamed the columns to make it easier to combine and analyze the data.
 ```

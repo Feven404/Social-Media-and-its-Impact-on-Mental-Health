@@ -84,7 +84,7 @@ comparison.cloud(wordcloud_data, colors = c("red4", "blue3"), max.words = 100)
 
 ```
 
-# Shiny app link: 
+# Shiny app link: https://fevenf.shinyapps.io/SocialMediaImpactOnMentalHealth/
 
 1. Save the files in RDS format to make it easier to load and run the code efficiently.
 

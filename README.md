@@ -84,7 +84,7 @@ comparison.cloud(wordcloud_data, colors = c("red4", "blue3"), max.words = 100)
 
 ```
 
-# Shiny app
+# Shiny app link: 
 
 1. Save the files in RDS format to make it easier to load and run the code efficiently.
 
@@ -139,4 +139,3 @@ server <- function(input, output) {
 # Run the application
 shinyApp(ui = ui, server = server)
 ```
-# Github link

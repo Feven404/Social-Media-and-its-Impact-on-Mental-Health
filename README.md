@@ -144,3 +144,5 @@ server <- function(input, output) {
 # Run the application
 shinyApp(ui = ui, server = server)
 ```
+# Kanban link:
+https://github.com/users/Feven404/projects/3/views/1
